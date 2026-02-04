@@ -1,0 +1,4 @@
+Real tables you'll work with:
+job_postings_fact → job_id, title, location, salary, remote, posted_date
+skills_job_dim → job_id, skill_id (many-to-many link)
+skills_dim → skill_id, skill_name
