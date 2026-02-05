@@ -1,0 +1,11 @@
+Job_ID,Job_Title,Company,Location,Experience_Level,Employment_Type,Salary_USD,Posted_Date
+J001,Data Analyst,ABC Analytics,Bangalore,Entry,Full-Time,65000,2024-01-10
+J002,Data Scientist,TechNova,Hyderabad,Mid,Full-Time,95000,2024-01-15
+J003,Data Engineer,DataWorks,Pune,Mid,Full-Time,105000,2024-01-18
+J004,Senior Data Analyst,InsightCorp,Remote,Senior,Full-Time,120000,2024-02-01
+J005,Junior Data Analyst,FinServe,Mumbai,Entry,Contract,55000,2024-02-05
+J006,Data Scientist,AI Labs,Bangalore,Senior,Full-Time,135000,2024-02-12
+J007,Data Engineer,CloudCore,Remote,Mid,Full-Time,110000,2024-02-18
+J008,Business Analyst,MarketX,Delhi,Entry,Full-Time,60000,2024-03-01
+J009,Data Analyst,HealthTech,Chennai,Mid,Full-Time,80000,2024-03-05
+J010,Data Scientist,DeepData,Remote,Mid,Full-Time,100000,2024-03-10
