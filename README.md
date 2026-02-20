@@ -1,75 +1,26 @@
-Data Job & Skills Analytics (SQL Project)
+# Workforce & Compensation Intelligence (SQL Analytics)
 
-An end-to-end SQL analytics project that analyzes data job roles, salary trends, and in-demand skills to support data-driven hiring and learning decisions. The project connects raw job market data to real-world insights used by recruiting and edtech teams.
+##  Overview
+An end-to-end SQL analytics project analyzing job market data to uncover workforce demand trends, compensation patterns, and high-value skills across roles.
 
-Project Objective
+##  Business Problem
+Organizations require data-driven insights to optimize hiring strategy, salary benchmarking, and workforce planning.
 
-To answer critical hiring and upskilling questions using SQL:
+##  Tech Stack
+- SQL (CTEs, Window Functions, Aggregations)
+- Data Cleaning & Transformation
+- Analytical Query Optimization
 
-Which data roles pay the most?
+##  Approach
+- Cleaned and structured raw job dataset
+- Performed salary trend analysis across roles and regions
+- Identified high-demand skills using frequency and growth metrics
+- Built structured insight deck for executive review
 
-Which skills are most in demand across data roles?
+##  Key Insights
+- Identified top-paying roles and emerging skills
+- Highlighted regional compensation variance
+- Supported data-driven talent acquisition planning
 
-Where do high salary and high demand overlap?
-
-What skills should candidates prioritize to maximize career ROI?
-
-Business Questions Answered
-
-Compare salaries across Data Analyst, Data Engineer, and Data Scientist roles
-
-Identify the most requested skills (SQL, Python, Power BI, Excel, Tableau)
-
-Analyze skill demand by role
-
-Determine strategic learning priorities based on pay vs demand
-
-Dataset Overview
-
-The dataset contains job postings with the following attributes:
-
-Job title
-
-Role category
-
-Salary (annual)
-
-Required skills
-
-Location
-
-Company
-
-Tools & Technologies
-
-SQL (PostgreSQL / MySQL compatible)
-
-CTEs & Subqueries
-
-Joins & Aggregations
-
-Window Functions
-
-Data Cleaning & Transformation
-
-Key Analysis Performed
-
-Salary comparison by role
-
-Skill frequency analysis
-
-Role-wise skill demand mapping
-
-High-pay vs high-demand skill intersection
-
-Ranking skills using salary and demand metrics
-
-Sample Insights
-
-Data Engineers command the highest average salaries
-
-SQL and Python are required across all major data roles
-
-Power BI and Tableau show strong demand for analyst roles
-
-Skills with both high pay and demand offer the strongest career leverage
+## 🚀 Outcome
+Delivered actionable workforce intelligence using advanced SQL analytics.
